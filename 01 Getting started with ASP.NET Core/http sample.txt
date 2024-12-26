@@ -1,0 +1,17 @@
+curl "https://www.niazerooz.net/administration/adminreporter/get" ^
+  -H "accept: text/html, */*; q=0.01" ^
+  -H "accept-language: en-US,en;q=0.9,fa-IR;q=0.8,fa;q=0.7" ^
+  -H "content-type: application/x-www-form-urlencoded; charset=UTF-8" ^
+  -H "cookie: CId=CId=V6d7dXLLua+UdxuUXf3+FXnnT704l5+fbW8uXLa+83a+c+3aIGXAZlCxDTn8qM3yulT7z28sZ7ijamCHXlb2/0M0sfBTbQLuOirSkyVib87ORF6l; _ga_DFMEH96HQL=GS1.1.1691325935.15.1.1691326023.0.0.0; _ga_PV8GKDD89W=deleted; _ga_PV8GKDD89W=deleted; _hjSessionUser_3719483=eyJpZCI6Ijc3YWVjMmQzLWY1YjQtNTNhNi1hZWVlLTc4Yjk5N2M3MTM2ZCIsImNyZWF0ZWQiOjE2OTkwNzc3MDc3MDQsImV4aXN0aW5nIjp0cnVlfQ==; _uin=_uin=707409; _ud_NR_951229=_ud_NR_951229=TaIEu7da2Y8TU6HefM/KYveVl0NxbO22puOrRh7uD2BoPmaN14pv/hyjVti5UmDIPLFLV3dbZOG3/sNFOP45j8o8+t5NL5x58cuNXh4EiHGsruD+eziMqkgF9WMKaluTiha2TgJ3josf3wOftAGyXMEFUaczbztkQM/5+/d4C9xuxjPtv29wP/sBVuv+PKlZyUf3lRHwExvbBUTEgaTmit4DYEuOkE6m1RQxzH1a8VX/pNFqzRkhkgZzXt1la3zHZoQWKoCQmf7we26RQJJZ3CmvWeLcQnCcliqxHMg7591obVyAv4sViYlLva7juMJoB5KiPr+NzSKZ8wjqIOmUepHP0m5jXnEkWaQ4xisiad//fI0eBX9WPUqK5xDYhI0PdJJuc4i8DanaOi8QfpA6oprD08dGvmPo+7TBwgx2a3zE7nk+HZD7QMSFYS0fqZTPfAm28znofC5vg4P3A0Hg+rHVlisS0xac3Lef/u0Gqxh/lsfCiKGTS8h6H2TuDPP9Eu+quLV7rtjYmhL/o0KWI3wsv7ykB49JwDqf1dOIwM9QAQ1p39HKCDkYXLoj2wvQQjIzCT96M9gkgabjYvyfLDGQtDDfjcfoF9hsNKJirVTIzt00; _gid=GA1.2.2071098774.1717654268; _gat=1; _ga=GA1.1.1966213627.1689157521; _hjSession_3719483=eyJpZCI6IjM2MTY2NDBlLWFmZDUtNDNlZC05OTc3LWQ2N2YyNWRkM2ZmOSIsImMiOjE3MTc2NTQyNzEwODUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MX0=; _ga_PV8GKDD89W=GS1.1.1717654270.590.0.1717654295.35.0.0" ^
+  -H "origin: https://www.niazerooz.net" ^
+  -H "priority: u=1, i" ^
+  -H "referer: https://www.niazerooz.net/administration/adminreporter" ^
+  -H ^"sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"125^\^", ^\^"Chromium^\^";v=^\^"125^\^", ^\^"Not.A/Brand^\^";v=^\^"24^\^"^" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H "sec-fetch-dest: empty" ^
+  -H "sec-fetch-mode: cors" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" ^
+  -H "x-requested-with: XMLHttpRequest" ^
+  --data-raw ^"options=^%^7B^%^22page^%^22^%^3A1^%^2C^%^22pageSize^%^22^%^3A60^%^2C^%^22reporterTitle^%^22^%^3A^%^22^%^22^%^2C^%^22factIds^%^22^%^3A^%^22^%^22^%^2C^%^22creatorIds^%^22^%^3A^%^22^%^22^%^2C^%^22reporterId^%^22^%^3A^%^22^%^22^%^2C^%^22editorIds^%^22^%^3A^%^22^%^22^%^2C^%^22fromEditionTime^%^22^%^3A^%^22^%^22^%^2C^%^22toEditionTime^%^22^%^3A^%^22^%^22^%^2C^%^22fromCreationTime^%^22^%^3A^%^22^%^22^%^2C^%^22toCreationTime^%^22^%^3A^%^22^%^22^%^2C^%^22reporterTagTitle^%^22^%^3A^%^22^%^22^%^7D^"
